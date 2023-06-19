@@ -125,7 +125,7 @@
     text-decoration: none;
     font-weight: 500;
   
-    transition: background 0.2s;
+    transition: background 0.5s;
   }
   
   /*pseudo-selector*/
@@ -148,9 +148,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 16px;
+    padding: 32px;
   
-    transition: background 0.2s;
+    transition: background 0.5s;
     border-radius: 50%;
   }
   
