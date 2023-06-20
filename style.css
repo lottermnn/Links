@@ -54,7 +54,7 @@
   #profile p {
     font-weight: 500;
     line-height: 24px;
-    margin-top: 8px;
+    margin-top: 23px;
   }
   
   /* switch */
@@ -86,7 +86,7 @@
   }
   
   #switch button:hover {
-    outline: 8px solid var(--highlight-color);
+    outline: 6px solid var(--highlight-color);
   }
   
   #switch span {
@@ -104,9 +104,9 @@
     list-style: none;
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 29px;
   
-    padding: 24px 0;
+    padding: 41px 0;
   }
   
   ul li a {
@@ -125,7 +125,7 @@
     text-decoration: none;
     font-weight: 500;
   
-    transition: background 0.2s;
+    transition: background 0.5s;
   }
   
   /*pseudo-selector*/
@@ -141,16 +141,16 @@
   
     padding: 32px 0;
   
-    font-size: 24px;
+    font-size: 30px;
   }
   
   #social-links a {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 16px;
+    padding: 32px;
   
-    transition: background 0.2s;
+    transition: background 0.5s;
     border-radius: 50%;
   }
   
