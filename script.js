@@ -10,11 +10,11 @@ function toggleMode() {
       //se tiver light mode, adicionar a imagem light
       //avatar escuro
       img.setAttribute("src", "./assets/avatar-light.png")
-      img.setAttribute("alt", "Fofo secund")
+      img.setAttribute("alt", "Cute cat")
     } else {
       //se tiver sem light mode, mandar a imagem nomarl
       //trocar avatar
       img.setAttribute("src", "./assets/Avatar1.png")
-      img.setAttribute("alt", "Fofo prime")
+      img.setAttribute("alt", "Cute cats")
     }
   }
