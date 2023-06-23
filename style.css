@@ -30,7 +30,7 @@
   }
   
   body * {
-    font-family: "Inter", sans-serif;
+    font-family: 'Playfair Display', serif;
     color: var(--text-color);
   }
   
